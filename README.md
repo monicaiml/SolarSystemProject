@@ -1,5 +1,5 @@
 ## 🪐 Solar System Project
- Solar System Project documented by Isabel Monica Martinez Lopez
+ Solar System Project documented by Monica
 
 ## 🚀 Project Description
 Solar System is a Java project that documents a solar system and its elements using public classes and methods.
