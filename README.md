@@ -1,35 +1,49 @@
-## 🪐 Solar System Project
- Solar System Project documented by Monica
 
-## 🚀 Project Description
-Solar System is a Java project that documents a solar system and its elements using public classes and methods.
+# 🪐 Solar System Project
 
-## 🛠️ Technologies and tools used
-- Java
-- IntelliJ IDEA
-- Git and GitHub
-- GitHub Pages
-- Javadoc with custom style (styles.css)
+A Java project focused on documenting a solar system and its elements using Javadoc, with a custom CSS stylesheet to improve the documentation's appearance.
 
-## 🔧 Development process
-The objective is to document this project.
+## 🚀 Project Overview
 
-- Specifically, to create a JavaDoc and style it with CSS.
-- Create a repository on GitHub
-- Upload the project to the repository
-- Create a GitHub pages page, displaying the documentation when you enter this page.
-- Create README.md.
+This project was developed to practise Java documentation and learn how to generate, customise and publish technical documentation online.
 
-## 📄 Documentation
-All project documentation is available on GitHub Pages:  
+The main goal was to generate Javadoc documentation, customise its appearance with CSS and publish it using GitHub Pages.
 
-https://monicaiml.github.io/SolarSystemProject/
+## 🛠️ Technologies and Tools
 
-- The documentation includes all public methods, setters, and relevant classes. 
-- Getters and tests have been excluded.
+- **Java** — project source code.
+- **IntelliJ IDEA** — development environment.
+- **Git and GitHub** — version control and repository hosting.
+- **Javadoc** — automatic generation of Java documentation.
+- **CSS** — custom styling for the generated documentation.
+- **GitHub Pages** — online publication of the documentation.
 
-## 📂 Repository structure
-- src/ → Java code
-- docs/ → documentation displayed on GitHub Pages
+## 📚 Live Documentation
 
+**[View the Javadoc documentation](https://monicaiml.github.io/SolarSystemProject/)**
+
+The documentation includes the relevant classes and public methods. Getters and tests were excluded from the generated documentation.
+
+## ⚙️ Development Process
+
+The project involved the following steps:
+
+1. Creating and documenting the Java classes.
+2. Generating the Javadoc documentation.
+3. Customising the documentation's appearance with a CSS stylesheet.
+4. Creating a GitHub repository and uploading the project.
+5. Publishing the documentation through GitHub Pages.
+6. Writing this README to explain the project and provide access to the documentation.
+
+## 📂 Repository Structure
+
+- `src/` — Java source code.
+- `docs/` — generated documentation published through GitHub Pages.
+
+## 🎯 What I Learned
+
+- Generating documentation with Javadoc.
+- Customising generated documentation using CSS.
+- Managing a project with Git and GitHub.
+- Publishing documentation online with GitHub Pages.
 
